@@ -1,0 +1,14 @@
+/target
+/it.launcher/target/
+/core/target/
+/it.tests/target/
+/ui.apps/target/
+/ui.content/target/
+.metadata/
+.project
+.classpath
+.settings
+.checkstyle
+.vlt
+target/
+bin/
