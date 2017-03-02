@@ -1,9 +1,7 @@
-target
-.metadata/
+target/
+bin/
 .project
 .classpath
 .settings
 .checkstyle
 .vlt
-target/
-bin/
